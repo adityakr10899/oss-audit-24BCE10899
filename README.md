@@ -2,7 +2,7 @@
 
 This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
 
-I’m **Aditya kumar** (`sumitkumar`, reg no `24BCE10899`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
+I’m **Aditya kumar** (`adityakumar`, reg no `24BCE10899`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
 
 ## What’s inside
 
