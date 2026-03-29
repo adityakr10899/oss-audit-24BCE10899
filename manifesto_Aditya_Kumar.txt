@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------
+|             OPEN SOURCE MANIFESTO (28 March 2026)                   |
+-----------------------------------------------------------------------
+
+My name is Aditya kumar, and I believe in the power of FOSS.
+Every day, I rely on git to empower my digital life.
+To me, the essence of open source is 'importance'.
+
+In the spirit of global collaboration, I pledge that
+one day I will build and share a portfolio with the world,
+just as others shared their hard work with me.
+-----------------------------------------------------------------------
